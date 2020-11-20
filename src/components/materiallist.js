@@ -3,24 +3,32 @@ import React, { Component } from "react";
 class MaterialList extends Component {
   constructor() {
     super();
-    this.state = { data: [] };
+    this.state = { materials: [] };
   }
   async componentDidMount() {
     try {
-      const response = await fetch(`https://mtlg.herokuapp.com/`).then(response => response.json());
-      this.setState({ data: response.toString() });
-      console.log(response.toString());
+      const response = await fetch(`https://mtlg.herokuapp.com/`);
+      const response_json = await response.json();
+      console.log(response_json);
+      this.setState({ materials : response_json });
     } catch (error) {
       console.log(error);
     }    
   }
 
   render() {
-    return (
-      <div class="material-list">
-        {this.state.data}
-      </div>
-    )
+    if (!this.state.materials) {
+      console.log(this.state);
+    } else {
+      console.log(this.state);
+      return (
+        <ul class="material-list">
+          {this.state.materials.map(function(d, idx){
+         return (<li key={idx}>{d.name}</li>)
+       })}
+        </ul>
+      )
+    }
   }
 }
 
