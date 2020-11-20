@@ -4,7 +4,7 @@
   "description": "test ui mtlg",
   "main": "app.js",
   "scripts": {
-    "start": "node mtlg/app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
