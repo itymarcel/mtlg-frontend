@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-let data;
 
 class MaterialList extends Component {
   constructor() {
@@ -8,10 +7,9 @@ class MaterialList extends Component {
   }
   async componentDidMount() {
     try {
-      const response = await fetch(`https://mtlg.herokuapp.com/`, {mode: 'cors', headers: { 'Content-Type': 'application/json' } });
-      const json = await response.json();
-      this.setState({ data: json });
-      console.log(json);
+      const response = await fetch(`https://mtlg.herokuapp.com/`).then(response => response.json());
+      this.setState({ data: response.toString() });
+      console.log(response.toString());
     } catch (error) {
       console.log(error);
     }    
@@ -19,7 +17,9 @@ class MaterialList extends Component {
 
   render() {
     return (
-      <div>{this.state.data}</div>
+      <div class="material-list">
+        {this.state.data}
+      </div>
     )
   }
 }
