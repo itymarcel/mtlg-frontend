@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import MaterialList from './components/materiallist'
+import MaterialListContainer from './containers/materials/materiallistcontainer'
 
 function App() {
   return (
-    <div class='app'>
-      <MaterialList />
+    <div className='app'>
+      <MaterialListContainer />
     </div>
   );
 }
