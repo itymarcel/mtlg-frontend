@@ -12,7 +12,8 @@ class MaterialListContainer extends Component {
 
   async componentDidMount() {
     try {
-      const response = await fetch(`http://localhost:4000`); // https://mtlg.herokuapp.com/
+      // const response = await fetch(`http://localhost:4000`);
+      const response = await fetch(`https://mtlg.herokuapp.com/`);
       const response_json = await response.json();
       console.log(response_json);
       this.setState({ loading: false, materials : response_json });
