@@ -25,8 +25,8 @@ class MaterialItem extends Component {
         <div className="material-description">{this.state.data.description}</div>
         <div className='material-information-headline'>Notes</div>
         <div className='material-notes'>{this.state.data.notes}</div>
-        {this.state.data.datasheet_url && (<div className='material-ds'><a href="{this.state.data.datasheet_url}">Link to datasheet</a></div>)}
-        {this.state.data.technicalinfosheet_url && (<div className='material-ds'><a href="{this.state.data.technicalinfosheet_url}">Link to technical info sheet</a></div>)}
+        {this.state.data.datasheet_url && (<div className='material-ds'><a href={this.state.data.datasheet_url} target="_blank">Link to datasheet</a></div>)}
+        {this.state.data.technicalinfosheet_url && (<div className='material-ds'><a href={this.state.data.technicalinfosheet_url} target="_blank">Link to technical info sheet</a></div>)}
         <div className="material-uuid">{this.state.data.uuid}</div>
       </div>
     )
