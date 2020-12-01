@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getToolTracing",
+				"getToolTracingForProductGroupTag\tmethod"
+			],
+			[
+				"prod",
+				"productGroup\tproperty"
+			],
+			[
+				"materials",
+				"materialsUuids\tconst"
+			],
+			[
+				"locatio",
+				"locationGroupTagsToDelete\tproperty"
+			],
+			[
+				"locationGroupTag",
+				"locationGroupTagsToDelete\tproperty"
+			],
+			[
+				"location",
+				"locationGroupTag"
+			],
+			[
+				"referen",
+				"referencedLocation\tparameter"
+			],
+			[
+				"storage",
+				"storageLocations"
+			],
+			[
+				"sto",
+				"storageLocations\tproperty"
+			],
+			[
+				"reference",
+				"referencedStorageLocations\tproperty"
+			],
+			[
+				"referec",
+				"referencedStorageLocations\tproperty"
+			],
+			[
+				"refere",
+				"referencedStorageLocations\tproperty"
+			],
+			[
+				"stor",
+				"storageLocations"
+			],
+			[
+				"locationGroup",
+				"locationGroupTagsAndStorageLocations\tproperty"
+			],
+			[
+				"loca",
+				"locationGroupTagsAndStorageLocations\tproperty"
+			],
+			[
+				"locationGrou",
+				"locationGroupTagsAndStorageLocations\tproperty"
+			],
+			[
+				"getStorageLocationsBy",
+				"getStorageLocationsByTagUuid_1\tmethod"
+			],
+			[
+				"getStorageLocationsFor",
+				"getStorageLocationsForLocationGroupTag"
+			],
+			[
+				"StorageLo",
+				"StorageLocationDTO\talias"
+			],
+			[
+				"LocatioNGroupTag",
+				"LocationGroupTagsAndRelatedStorageLocations\tinterface"
+			],
+			[
+				"LocationGroupTags",
+				"LocationGroupTagsAndRelatedStorageLocations\tinterface"
+			],
+			[
+				"storageLocat",
+				"StorageLocationDTO\talias"
+			],
+			[
+				"storageLoca",
+				"storageLocationPromises\tlet"
+			],
+			[
+				"getLocationsfor",
+				"getStorageLocationsForLocationGroupTag\tmethod"
+			],
+			[
+				"getStorageLocationFor",
+				"getStorageLocationsForLocationGroupTag\tmethod"
+			],
+			[
+				"updateLocation",
+				"updateStorageLocationsForLocationGroupTag"
+			],
+			[
+				"updateStorageLoc",
+				"updateStorageLocation"
+			],
+			[
+				"locatioNRef",
+				"locationReferncesToBeRemoved\tproperty"
+			],
+			[
+				"locationRe",
+				"locationReferncesToBeRemoved\tproperty"
+			],
+			[
+				"locat",
+				"locationReferncesToBeRemoved\tproperty"
+			],
+			[
+				"tdp",
+				"tdpReferencesToBeRemoved"
+			],
+			[
+				"alread",
+				"alreadyExists\tconst"
+			],
+			[
+				"attach",
+				"attachedTechnicalDataPresetTags\tproperty"
+			],
+			[
+				"load",
+				"loading\tproperty"
+			],
+			[
+				"technica",
+				"technicalDataPresetTags\tproperty"
+			],
+			[
+				"unref",
+				"unreferencedTechnicalDataDefinitions\tproperty"
+			],
+			[
+				"tech",
+				"technicalDataDefinitions\tproperty"
+			],
+			[
+				"getTechnicalDatadef",
+				"getTechnicalDataDefinitionForBp\tmethod"
+			],
+			[
+				"ge",
+				"getCurrentUserInfo\tmethod"
+			],
+			[
+				"getTechnicalDataDefinitions",
+				"getTechnicalDataDefinitionForCustomer\tmethod"
+			],
+			[
+				"getTechnical",
+				"getTechnicalDataDefinitions"
+			],
+			[
+				"updateTags",
+				"createOrUpdateTags\tmethod"
+			],
+			[
+				"loading",
+				"loadingTags\tproperty"
+			],
+			[
+				"main",
+				"mainBusinessPartnerUuid\tproperty"
+			],
+			[
+				"getTags",
+				"getTagsByBusinessPartnerUuid\tmethod"
+			],
+			[
+				"DB",
+				"DB_IP\twarning"
+			],
+			[
+				"getTooltrac",
+				"getToolTracingSSMsForGSMAndLocationGroupTags\tmethod"
+			],
+			[
+				"getToolTracin",
+				"getToolTracingSSMsForGSMAndLocationGroupTags"
+			],
+			[
+				"isLoca",
+				"isLocationGroupTagBased\tproperty"
+			],
+			[
+				"isLocationg",
+				"isLocationGroupTagBased"
+			],
+			[
+				"isLoc",
+				"isLocationGroupTagBased\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 351,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/containers/materials/materiallistcontainer.js",
+			"settings":
+			{
+				"buffer_size": 1216,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/materials/materiallist.js",
+			"settings":
+			{
+				"buffer_size": 607,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/marci/localdev/mtlg-frontend",
+		"/Users/marci/localdev/mtlg-frontend/src",
+		"/Users/marci/localdev/mtlg-frontend/src/components",
+		"/Users/marci/localdev/mtlg-frontend/src/components/materials",
+		"/Users/marci/localdev/mtlg-frontend/src/containers",
+		"/Users/marci/localdev/mtlg-frontend/src/containers/materials"
+	],
+	"file_history":
+	[
+		"/Users/marci/localdev/mtlg-frontend/mtlg-frontend.sublime-project",
+		"/Users/marci/localdev/mtlg-frontend/src/App.js",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/home.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/package.json",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/tool-selector/tool-selector.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/tool-selector/tool-selector.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/tool-selector/tool-selector.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/home.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-tool-tracing/admin-tool-tracing.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-tool-tracing/admin-tool-tracing.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-tool-tracing/location-group-tag/location-group-tag.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/infrastructure/api/api.service.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-tool-tracing/location-group-tag/location-group-tag.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/stocks/stock-location-editor/stock-location-editor.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-technical-data/admin-smt-technical-data.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-technical-data/admin-smt-technical-data.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/landing-page/widgets/tm-projects-xl-widget/tm-projects-xl-widget.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/technical-data/technical-data-definition-editor/technical-data-definition-editor.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/stocks/storage-location-editor/storage-location-editor.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-user-details/admin-user-details.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/report/report.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/report-preview/report-preview.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-logistic-client/admin-logistic-client.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-header/admin-smt-state-class-def.model.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-booking-parameters/admin-smt-booking-parameters.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/package-lock.json",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-locations/admin-smt-locations.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-life-cycle-management/admin-life-cycle-management.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-life-cycle-management/admin-life-cycle-management.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-booking-parameters/admin-smt-booking-parameters.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/common-components/data-grid/data-grid.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-user-details/admin-user-details.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-locations/admin-smt-locations.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-licenses/admin-licenses.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-technical-data/admin-technical-data.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-technical-data/admin-technical-data.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/common-components/data-grid/data-grid.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-user-details/admin-user-details.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-projects/machine-runoff-projects/mro-members/mro-members.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-projects/project-info/members-content/members-content.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-workpieces/workpiece/workpiece.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/infrastructure/routing-resolver/stockmovementtemplate-sidebar.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-header/admin-smt-header.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-header/admin-smt-header.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-header/admin-smt-header.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/ccom-lib/multilanguage-field/multilanguage-field-edit/multilanguage-field-edit.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/ccom-lib/multilanguage-field/multilanguage-field-edit/multilanguage-field-edit.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/ccom-lib/multilanguage-field/multilanguage-field-edit/multilanguage-field-edit.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/ccom-lib/multilanguage-field/multilanguage-field-edit/multilanguage-field-edit.component.spec.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-booking-parameters/admin-smt-booking-parameters.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-technical-data/admin-smt-technical-data.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-smt-locations/admin-smt-locations.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/tag/tag-display/tag-display.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-roles/admin-roles.component.ts",
+		"/Users/marci/Downloads/facebook-1.svg",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-roles/admin-roles.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-reporting/dashboard/add-modal/add-modal.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-reporting/dashboard/add-modal/add-modal.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-reporting/dashboard/add-modal/add-modal.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/report/selector-bar/selector-bar.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/sap-icon.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/sidebar/sidebar.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/sidebar/sidebar.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/sidebar/sidebar.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/report/sidebar/sidebar.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/ccom-lib/button-toggle/button-toggle.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/ccom-lib/button-toggle/button-toggle.component.scss",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-reporting/dashboard/dashboard.module.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/home.module.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/view.model.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/report/report.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/ccom-lib/index.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-business-relations/admin-business-relations.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/app-nav-bar/navbar-user-info/navbar-user-info.component.ts",
+		"/Users/marci/localdev/mtlg/prisma/.env",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/home/view.service.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-reporting/tool-cost-dashboard/tool-cost-dashboard.component.html",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/admin/admin-master-data/admin-master-data.component.ts",
+		"/Users/marci/localdev/ccom/ccom-core/ng-web-client/src/app/my-tool-tracing/report/sidebar/sidebar.component.ts"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/containers/materials/materiallistcontainer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								779,
+								779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/materials/materiallist.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 143.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 143.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 82.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mtlg-frontend.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
